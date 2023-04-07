@@ -7,6 +7,7 @@ public class TestCase1 {
 	
 	{
 		System.out.println("Test case 1");
+		System.out.println("Testcase 2");
 	}
 
 }
